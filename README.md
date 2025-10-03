@@ -191,7 +191,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## 📞 **Support**
 
-*   **NEURONwriter Official:** [neuronwriter.com]([https://neuronwriter.com](https://softreviewed.com/neuronwriter-ltd))
+*   **NEURONwriter Official:** [neuronwriter.com]([https://neuronwriter.com](https://softreviewed.com/neuronwriter-ltd)
 *    **SoftReviewed Official Support:**  [Contact for Support](https://softreviewed.com/contact/)
 *   **Lifetime Deals:** [softreviewed.com/neuronwriter-ltd](https://softreviewed.com/neuronwriter-ltd)
 ---
