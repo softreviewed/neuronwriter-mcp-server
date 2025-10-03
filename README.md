@@ -193,7 +193,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 *   **NEURONwriter Official:** [neuronwriter.com](https://softreviewed.com/neuronwriter-ltd)
 *    **SoftReviewed Official Support:**  [Contact for Support](https://softreviewed.com/contact/)
-*   **Lifetime Deals:** [softreviewed.com/neuronwriter-ltd](https://softreviewed.com/neuronwriter-ltd)
 ---
 
 **Ready to supercharge your content creation?** Get the **NEURONwriter lifetime deal** today and start automating with this MCP server! 🚀
